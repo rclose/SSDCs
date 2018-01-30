@@ -1,0 +1,61 @@
+,collection_no,collection.reference_no,occurrence.species_name,occurrence.genus_name,occurrence.species_reso,ma_max,ma_min,occurrence.abund_value
+1,21852,53207,longus,Diplodocus,,150.8,145,29
+2,25221,45826,baharijensis,Aegyptosaurus,,105.3,93.5,2
+3,26375,19228,septentrionalis,Antarctosaurus,n. sp.,72.1,66,42
+4,26767,7400,notabilis,Hadrosaurus,,83.5,70.6,1
+5,27876,7643,oxoniensis,Cetiosaurus,,171.6,167.7,1
+6,34747,9234,gracilis,Leptoceratops,,72.1,66,1
+7,36144,13040,sirindhornae,Phuwiangosaurus,,129.4,113,200
+8,36569,19693,sinocanadorum,Mamenchisaurus,n. sp.,163.5,157.3,1
+9,39253,7814,agilis,Coelurus,n. sp.,157.3,145,NA
+10,45166,11755,mazongshanensis,Probactrosaurus,n. sp.,129.4,113,19
+11,13142,4377,makelai,Orodromeus,,72.1,66,NA
+12,45898,11964,formosus,Troodon,,83.5,70.6,12
+13,45975,12259,vivianae,Supersaurus,n. sp.,155.7,145,4
+14,47072,15531,campi,Szechuanosaurus,,174.1,163.5,1
+15,47076,12540,ceratosauroides,Chienkosaurus,n. sp.,152.1,145,5
+16,47128,12569,albertensis,Triceratops,,72.1,66,1
+17,47363,14179,phillipsii,Iguanodon,n. sp.,163.5,157.3,1
+18,22695,5929,langstoni,Saurornitholestes,,83.5,70.6,8
+19,48342,12607,sattleri,Dicraeosaurus,,152.1,145,1
+20,48557,10606,longispinus,Stegosaurus,n. sp.,157.3,145,1
+21,48643,45099,plieningeri,Gresslyosaurus,cf.,228,208.5,1
+22,14519,1239,mirandus,Aublysodon,,70.6,66,1
+23,49577,12200,grandis,Camarasaurus,?,157.3,152.1,1
+24,38916,5789,gittelmani,Karongasaurus,n. sp.,125,113,15
+25,51693,13765,limai,Angaturama,n. sp.,113,100.5,1
+26,25127,7054,sauvagei,Erectopus,,99.6,93.5,1
+27,51980,13900,shibeiensis,Gongxianosaurus,n. sp.,182.7,174.1,3
+28,52258,17007,oweni,Hylaeosaurus,n. sp.,140.2,136.4,2
+29,52359,13881,christopheri,Zuniceratops,n. sp.,93.5,89.3,1
+30,52468,12319,brevitertius,Dromiceiomimus,,70.6,66,1
+31,52685,14177,horridus,Triceratops,,72.1,66,1
+32,52740,11823,ischigualastensis,Herrerasaurus,,237,228,2
+33,52865,14241,proteles,Sauroposeidon,,122.46,112.03,4
+34,53046,12559,stebingeri,Hypacrosaurus,,83.6,72.1,1
+35,53227,24890,angustirostris,Saurolophus,n. sp.,83.5,66,1
+36,59058,16768,allocotus,Huabeisaurus,,100.5,66,NA
+37,59137,56332,inequalis,Troodon,,83.5,70.6,NA
+38,51914,13842,multispinus,Tuojiangosaurus,n. sp.,163.5,157.3,NA
+39,61450,17738,opolensis,Silesaurus,,237,208.5,1
+40,64149,9247,elegans,Elmisaurus,,83.5,70.6,1
+41,51889,13817,perotorum,Pachyrhinosaurus,n. sp.,70.6,66,9
+42,75891,25673,currumili,Condorraptor,,166.1,163.5,1
+43,47800,43877,triassicus,Procompsognathus,n. sp.,215.56,212,1
+44,78993,26534,huangi,Yunnanosaurus,,199.3,190.8,3
+45,12816,10624,clevelandi,Stokesosaurus,,157.3,145,NA
+46,81086,27280,palaios,Kryptops,n. sp.,125,100.5,7
+47,38134,43271,heterocoelica,Arkharavia,n. sp.,70.6,66,5
+48,70051,12319,ericksoni,Glishades,n. sp.,83.6,72.1,1
+49,69152,19936,lokii,Medusaceratops,n. sp.,83.5,70.6,12
+50,67712,6053,placidus,Santanaraptor,n. sp.,112.03,109,1
+51,130798,42289,osmolskae,Citipati,,83.6,72.1,NA
+52,140256,45328,yaoi,Sanpasaurus,,182.7,174.1,1
+53,97945,33857,nankangensis,Ganzhousaurus,n. sp.,72.1,66,1
+54,53050,12559,langstoni,Saurornitholestes,,83.5,70.6,2
+55,154212,49990,tanneri,Torvosaurus,,152.1,145,1
+56,46152,14566,mongoliensis,Saurornithoides,n. sp.,83.5,70.6,1
+57,169878,55429,atacis,Ampelosaurus,,83.5,70.6,1
+58,170943,55641,navajovius,Kritosaurus,,83.5,70.6,1
+59,165580,34612,novojilovi,Gorgosaurus,n. sp.,83.6,66,1
+60,180684,10453,bataar,Tarbosaurus,,83.6,66,1

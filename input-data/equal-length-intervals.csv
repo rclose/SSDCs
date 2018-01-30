@@ -1,0 +1,42 @@
+"","bin","stages","LAD","FAD","midpoint","duration"
+"1","Ng4","Calabrian, Middle Pleistocene, Late Pleistocene, Holocene",0,1.806,0.903,1.806
+"2","Ng3","Messinian, Zanclean, Piacenzian, Gelasian",1.806,7.246,4.526,5.44
+"3","Ng2","Langhian, Serravallian, Tortonian",7.246,15.97,11.608,8.724
+"4","Ng1","Aquitanian, Burdigalian",15.97,23.03,19.5,7.06
+"5","Pg5","Chattian, Rupelian",23.03,33.9,28.465,10.87
+"6","Pg4","Bartonian, Priabonian",33.9,41.3,37.6,7.4
+"7","Pg3","Lutetian",41.3,47.8,44.55,6.5
+"8","Pg2","Ypresian",47.8,56,51.9,8.2
+"9","Pg1","Selandian, Thanetian",56,61.6,58.8,5.6
+"10","Pg0","Danian",61.6,66,63.8,4.4
+"11","K8","Maastrichtian",66,72.1,69.05,6.09999999999999
+"12","K7","Campanian",72.1,83.6,77.85,11.5
+"13","K6","Coniacian, Santonian, Turonian",83.6,93.9,88.75,10.3
+"14","K5","Cenomanian",93.9,100.5,97.2,6.59999999999999
+"15","K4","Albian",100.5,113,106.75,12.5
+"16","K3","Aptian",113,125,119,12
+"17","K2","Barremian, Hauterivian",125,132.9,128.95,7.90000000000001
+"18","K1","Berriasian, Valanginian",132.9,145,138.95,12.1
+"19","J6","Kimmeridgian, Tithonian",145,157.3,151.15,12.3
+"20","J5","Callovian, Oxfordian",157.3,166.1,161.7,8.79999999999998
+"21","J4","Bajocian, Bathonian",166.1,170.3,168.2,4.20000000000002
+"22","J3","Aalenian, Toarcian",170.3,182.7,176.5,12.4
+"23","J2","Pliensbachian",182.7,190.8,186.75,8.10000000000002
+"24","J1","Hettangian, Sinemurian",190.8,201.3,196.05,10.5
+"25","Tr5","Rhaetian",201.3,208.5,204.9,7.19999999999999
+"26","Tr4","Norian",208.5,228,218.25,19.5
+"27","Tr3","Carnian",228,237,232.5,9
+"28","Tr2","Ladinian",237,242,239.5,5
+"29","Tr1","Anisian, Olenekian, Induan",242,252.17,247.085,10.17
+"30","P5","Changhsingian, Wuchiapingian",252.17,259.9,256.035,7.72999999999999
+"31","P4","Capitanian, Wordian",259.9,268.8,264.35,8.90000000000003
+"32","P3","Kungurian, Roadian",268.8,279.3,274.05,10.5
+"33","P2","Artinskian",279.3,290.1,284.7,10.8
+"34","P1","Asselian, Sakmarian",290.1,298.9,294.5,8.79999999999995
+"35","C5","Gzhelian, Kasimovian",298.9,307,302.95,8.10000000000002
+"36","C4","Moscovian",307,315.2,311.1,8.19999999999999
+"37","C3","Bashkirian, Serpukhovian",315.2,330.9,323.05,15.7
+"38","C2","Visean",330.9,346.7,338.8,15.8
+"39","C1","Tournaisian",346.7,358.9,352.8,12.2
+"40","D5","Famennian",358.9,372.2,365.55,13.3
+"41","D4","Frasnian",372.2,382.7,377.45,10.5
